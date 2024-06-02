@@ -39,10 +39,8 @@ Ziel dieses Projekts ist es, eine benutzerfreundliche und effiziente Anwendung z
 | 4.1  | Eine Datei ist hochgeladen. | Der Benutzer sieht die Vorschau. | Die Dateigrößen vor und nach der Komprimierung werden angezeigt. |
 | 5.1  | Die Webanwendung ist geladen. | Der Benutzer wählt Komprimierungsoptionen aus. | Die Komprimierung erfolgt entsprechend den ausgewählten Optionen. |
 
-### 1.4 Diagramme
 
-![Use Case Diagram](path_to_use_case_diagram.png)
-![Sketch of Webpage](path_to_webpage_sketch.png)
+
 
 ## 2 Planen
 
