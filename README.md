@@ -54,9 +54,8 @@ Ziel dieses Projekts ist es, eine benutzerfreundliche und effiziente Anwendung z
 | 1.D  | 13/03/2024 | Shahir    | Implementierung der Vorschaufunktion      | 45 min        |
 | 1.E  | 20/03/2024 | Beide     | Implementierung der Komprimierungsoptionen| 45 min        |
 | 1.F  | 20/03/2024 | Beide     | Testen und Bugfixing                      | 45 min        |
-| ...  |            |           |                                           |               |
 
-Total: 
+
 
 ## 5 Kontrollieren
 
